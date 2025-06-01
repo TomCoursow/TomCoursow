@@ -21,7 +21,7 @@
   <p>
     Hi, my name is Tom.
     <br />
-    I'm a passionate and results-driven software developer with expertise in building robust, scalable, and user-friendly applications.
+    I'm a passionate and results-driven Software & Game Developer with expertise in building robust, scalable, and user-friendly applications.
     I love solving complex problems and crafting elegant solutions using modern technologies.
     With a strong background in full-stack development, I enjoy bringing ideas to life from conception to deployment.
     My journey in software development is fueled by continuous learning and a commitment to high-quality code.
