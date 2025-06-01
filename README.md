@@ -38,8 +38,8 @@
   &nbsp;
   &nbsp;
   <img alt="C++" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg'>
-  &nbsp;
-  &nbsp;
+  <br />
+  <br />
   <img alt="Unreal Engine" width="150" height="150" src='https://img.icons8.com/?size=100&id=38240&format=png&color=FFFFFF'>
   &nbsp;
   &nbsp;
