@@ -30,9 +30,30 @@
 
 <h1 align="center">Languages and Tools</h1>
 
-<div align="center">
-  <p>TODO</p>
+<div id="tech-stack-top" align="center">
+  <img alt="C#" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="Java" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="C++" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="Unreal Engine" width="150" height="150" src='https://img.icons8.com/?size=100&id=38240&format=png&color=FFFFFF'>
+  &nbsp;
+  &nbsp;
+  <img alt="Godot Engine" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="Unity Engine" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg'>
+  <br />
+  <br />
+  <img alt="Spring" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="Hibernate" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg'>
+  &nbsp;
+  &nbsp;
+  <img alt="Docker" width="150" height="150" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'>
 </div>
-
-<br />
-<br />
