@@ -1,5 +1,5 @@
 <div id="welcome-banner" align="center">
-  <img alt="Welcome Animation" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo0Z2lzbDgyOXpqaWNmdmw0Z2g0Nmkxb3o5NTYwbGIzdHl4dGtiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wZHlVEfXtXwuUNfI41/giphy.gif">
+  <img alt="Welcome Animation" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo0Z2lzbDgyOXpqaWNmdmw0Z2g0Nmkxb3o5NTYwbGIzdHl4dGtiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wZHlVEfXtXwuUNfI41/giphy.gif">
 </div>
 
 <div id="badges" align="center">
